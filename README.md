@@ -16,3 +16,13 @@ Now run the script with following command.
 ```
 python ANON.py
 ```
+1. Whois Lookup
+2. DNS Lookup + Cloudflare Detector
+3. Zone Transfer
+4. Port Scan
+5. HTTP Header Grabber
+6. Honeypot Detector
+7. Robots.txt Scanner
+8. Link Grabber
+9. IP Location Finder
+10. Traceroute
